@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./welp.png)
+![screenshot](./welp.PNG)
 
 Additional description about the project and its features.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://diegocixyz.github.io/Tribute_page_FFC/)
 
 
 ## Getting Started
@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/DiegociXYZ/Tribute_page_FFC/issues/).
 
 ## Show your support
 
