@@ -4,15 +4,21 @@ body {
     text-align: center;
     color: #333;
     margin: 0;
-    background-color: #909090;
+    background-image: linear-gradient(115deg, #DDDD55, #aaa);
+    
+}
+div{
+    width: 250px;
+    height: 270px;
+    margin: auto;
+    
+    border-radius: 5px;
 }
 
-main {
-    margin: 30px;
-}
+
 
 h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 0;
 }
 
@@ -29,6 +35,12 @@ ul {
     margin: 0 auto 50px auto;
     text-align: left;
     font-size: 0.6em;
+    text-align: justify;
+    
+
+}
+li{
+    margin: 15px;
 }
 
 a {
@@ -38,19 +50,28 @@ a {
 }
 
 h2 {
-    font-size: 0.8em;
+    font-size: 1rem;
     margin-top: 0;
 
 }
 
 h3 {
-    font-size: 0.7em;
+    font-size: 1.2rem;
 }
 
 figcaption {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 p {
     font-size: 0.9em;
+}
+span{
+    font-weight: bold;
+}
+.quote{
+    font-size: 15px;
+}
+p:last-of-type{
+    font-size: 1.2rem;
 }
